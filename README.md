@@ -1,5 +1,7 @@
 # Data Scientist Nanodegree
 # Supervised Learning
+# Author - Cian Cronin (croninc@google.com)
+# Date - 20/Aug/2018
 ## Project: Finding Donors for CharityML
 
 ### Install
